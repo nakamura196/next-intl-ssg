@@ -26,8 +26,6 @@
     "typescript": "^5"
   },
   "overrides": {
-    "next": {
-      "postcss": ">=8.5.18"
-    }
+    "postcss": ">=8.5.18"
   }
 }
